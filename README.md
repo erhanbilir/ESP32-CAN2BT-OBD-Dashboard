@@ -34,7 +34,7 @@ MCP2515 CAN Bus Module
 
 OBD-II to CAN Adapter
 
-Android Phone (for Bluetooth display)
+Desktop or Laptop device (for Bluetooth display)
 
 (Optional) External power supply for automotive testing
 
