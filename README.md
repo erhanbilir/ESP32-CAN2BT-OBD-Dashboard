@@ -62,7 +62,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/erhanbilir/ESP32-CAN2BT-OBD-Dashboard.git
-
+```
 Open the project with Arduino IDE.
 
 Install the required libraries:
