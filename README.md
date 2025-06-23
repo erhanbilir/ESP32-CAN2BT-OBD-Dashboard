@@ -68,7 +68,7 @@ Open the project with Arduino IDE.
 
 Install the required libraries:
 
-mcp_can
+mcp2515
 
 BluetoothSerial
 
