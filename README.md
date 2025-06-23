@@ -1,1 +1,1 @@
-# CAN2BT OBD Dashboard
+# ESP32 CAN2BT OBD Dashboard
